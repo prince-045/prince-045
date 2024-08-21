@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋, I'm Prince Pateel</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-045&label=Profile%20views&color=0e75b6&style=flat" alt="prince-045" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-045" alt="prince-045" /></a> </p>
+
+- 🌱 I’m currently learning **python,React js**
+
+- 💬 Ask me about **HTML,JS,CSS**
+
+- 📫 How to reach me **princepatel31103110@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
