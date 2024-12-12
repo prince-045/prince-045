@@ -3,7 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **python**
 
 - 💬 Ask me about **HTML,JS,CSS**
 
