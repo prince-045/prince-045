@@ -4,7 +4,8 @@
 
 
 
-- 💬 Ask me about **HTML,JS,CSS**
+- 💬 currently exploring all the things in ML how model works in real life.
+- 
 
 - 📫 How to reach me **princepatel31103110@gmail.com**
 
